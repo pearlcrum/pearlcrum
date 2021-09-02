@@ -1,4 +1,4 @@
-### Jeong MI 🐶
+### Jae Sung
 
 ![Jaesung's GitHub stats](https://github-readme-stats.vercel.app/api?username=pearlcrum&show_icons=true&theme=Default)
 
