@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20Jaesung%20%20&height=200&fontSize=100)
 
-[![Jaesung's github stats](https://github-readme-stats.vercel.app/api?username=pearlcrum&show_icons=true&theme={theme})](https://github.com/{username}/github-readme-stats)
+[![Jaesung's github stats](https://github-readme-stats.vercel.app/api?username=pearlcrum&show_icons=true&theme=dark)](https://github.com/{username}/github-readme-stats)
+
+
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=pearlcrum)](https://solved.ac/pearlcrum)
 
 
