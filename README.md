@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20Jaesung%20%20&height=200&fontSize=100)
 
 [![Jaesung's github stats](https://github-readme-stats.vercel.app/api?username=pearlcrum&show_icons=true&theme=dark)](https://github.com/{username}/github-readme-stats)
 
